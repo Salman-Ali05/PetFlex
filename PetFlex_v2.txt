@@ -1,0 +1,5 @@
+PetFlex v.2 :
+Ranger le code JS
+Ajouter le live search
+Plusieurs pages pour les films
+Améliorer le CSS + Responsive
